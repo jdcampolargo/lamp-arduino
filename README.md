@@ -1,6 +1,6 @@
 # Building a Light Detecting Lamp
 
-* Watch [Video](https://www.youtube.com/shorts/W2UPwvHguxg)
+* Watch [Video](https://www.youtube.com/shorts/W2UPwvHguxg) of the Lamp in ACTION!
 
 ## Tools
 
